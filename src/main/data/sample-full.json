@@ -1,0 +1,15 @@
+{
+  "id": 101,
+  "firstName": "Kelvin",
+  "lastName": "Geeky",
+  "email": "geeky@gmail.com",
+  "address": {
+      "street": "101 Lekki Drive",
+      "city": "Lekki",
+      "state": "Lagos",
+      "zip": "23401",
+      "country": "Nigeria"
+  },
+  "languages": ["Java", "C#", "Python", "Javascript"],
+  "company": "Geeky Inc"
+}
